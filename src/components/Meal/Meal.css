@@ -1,0 +1,23 @@
+.meal{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.meal-info{
+    padding-left: 20px;
+}
+.meal img{
+    width: 100%;
+}
+.btn-add{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: orange;
+    border: none;
+    border-radius: 5px;
+}
+.btn-add p{
+    margin-right: 10px;
+}
